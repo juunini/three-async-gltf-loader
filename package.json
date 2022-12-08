@@ -1,8 +1,22 @@
 {
   "name": "three-async-gltf-loader",
-  "version": "0.0.1",
-  "module": "index.ts",
-  "type": "module",
+  "version": "0.0.2",
+  "author": "juunini",
+  "license": "MIT",
+  "repository": "https://github.com/juunini/three-async-gltf-loader",
+  "homepage": "https://github.com/juunini/three-async-gltf-loader",
+  "main": "index.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "three",
+    "threejs",
+    "gltf",
+    "glb",
+    "loader",
+    "async",
+    "promise"
+  ],
   "devDependencies": {
     "@types/three": "^0.146.0",
     "bun-types": "^0.2.0",
